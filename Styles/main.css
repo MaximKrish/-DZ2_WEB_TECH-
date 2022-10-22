@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'CircleC';
+	src: url('fonts/circlec.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/circlec.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/circlec.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/circlec.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/circlec.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/circlec.svg#circlec') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+
+body {
+    background-color: rgb(236, 217, 203);
+    font-family: 'CircleC', sans-serif;
+}
